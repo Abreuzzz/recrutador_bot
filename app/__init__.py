@@ -1,0 +1,1 @@
+"""Recruitment Telegram bot package."""
